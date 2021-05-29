@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "daysmod:ring2"
+    }
+  ],
+  "result": {
+    "item": "daysmod:ring4",
+    "count": 1
+  }
+}
