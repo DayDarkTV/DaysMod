@@ -1,4 +1,4 @@
-#DaysMod
+#~DaysMod
 
 ![both](https://img.shields.io/badge/environment-both-4caf50?style=flat-square)
 ![Mod loader: Fabric](https://img.shields.io/badge/mod%20loader-fabric-d64541?style=flat-square)
